@@ -7,6 +7,6 @@ entries:
     digest: 2c41e08ac5baf31956429d157a4a75f8858123cee6648d1c268ce40e41012587
     name: nginx
     urls:
-    - gs://alexsher311013-helm-repo/nginx-v1.0.0.tgz
+    - https://alexandrsher.github.io/charts/nginx-v1.0.0.tgz
     version: v1.0.0
 generated: 2018-05-25T14:30:14.466126905Z
